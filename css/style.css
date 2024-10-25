@@ -1,6 +1,9 @@
 
 .logo{
-    margin-left: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* Estilo para la frase "Locas por el cine" */
 .locas-por-el-cine {
